@@ -30,4 +30,4 @@
 4. **Comece a pesquisar!** Digite o nome de um inventor e explore a história da invenção brasileira.
 
 
-URL: 
+URL: https://alura-inventores-brasil.vercel.app
