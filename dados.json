@@ -1,0 +1,312 @@
+[
+  {
+    "nome": "Santos Dumont",
+    "nacionalidade": "Brasil",
+    "resumo": "Aviador e inventor, considerado o 'Pai da Aviação'",
+    "inventos": [
+      "14-bis",
+      "Demoiselle",
+      "Relógio de pulso para aviadores"
+    ],
+    "anos_de_vida": "1873-1932",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Santos_Dumont"
+  },
+  {
+    "nome": "Padre Roberto Landell de Moura",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor e sacerdote, pioneiro nas transmissões de rádio",
+    "inventos": [
+      "Transmissor de ondas de rádio",
+      "Telefone sem fio",
+      "Telégrafo sem fio"
+    ],
+    "anos_de_vida": "1861-1928",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Roberto_Landell_de_Moura"
+  },
+  {
+    "nome": "Nélio José Nicolai",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor do Bina (identificador de chamadas)",
+    "inventos": [
+      "Bina (identificador de chamadas telefônicas)"
+    ],
+    "anos_de_vida": "1940-2017",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Nélio_José_Nicolai"
+  },
+  {
+    "nome": "Francisca Gomes de Gusmão",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventora da peneira automática para o processamento da farinha de mandioca",
+    "inventos": [
+      "Peneira automática para farinha de mandioca"
+    ],
+    "anos_de_vida": "1930-2016",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Francisca_Gomes_de_Gusmão"
+  },
+  {
+    "nome": "Juliana Rotich",
+    "nacionalidade": "Brasil",
+    "resumo": "Empreendedora social e tecnóloga, co-fundadora da Ushahidi",
+    "inventos": [
+      "Plataforma Ushahidi",
+      "BRCK (dispositivo de conectividade para áreas remotas)"
+    ],
+    "anos_de_vida": "1977-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Juliana_Rotich"
+  },
+  {
+    "nome": "Hércules Florence",
+    "nacionalidade": "França/Brasil",
+    "resumo": "Inventor e pioneiro da fotografia no Brasil",
+    "inventos": [
+      "Processo fotográfico (paralelo a Daguerre)",
+      "Poligrafia"
+    ],
+    "anos_de_vida": "1804-1879",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Hércules_Florence"
+  },
+  {
+    "nome": "Júlio César Guimarães",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor de uma espuma biodegradável usada no combate a incêndios",
+    "inventos": [
+      "Espuma biodegradável para combate a incêndios"
+    ],
+    "anos_de_vida": "1947-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Júlio_César_Guimarães"
+  },
+  {
+    "nome": "José Gomes de Macedo",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor de uma válvula cardíaca",
+    "inventos": [
+      "Válvula cardíaca de disco basculante"
+    ],
+    "anos_de_vida": "1918-1980",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/José_Gomes_de_Macedo"
+  },
+  {
+    "nome": "Alfredo Moser",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor da 'lâmpada de Moser', uma forma de iluminação sustentável",
+    "inventos": [
+      "Lâmpada de Moser (garrafa de água como lâmpada)"
+    ],
+    "anos_de_vida": "1950-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Alfredo_Moser"
+  },
+  {
+    "nome": "Edson Godoy Bueno",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e empresário, fundador da Amil e inventor na área da saúde",
+    "inventos": [
+      "Sistema de gestão de saúde integrado",
+      "Cartão de saúde eletrônico"
+    ],
+    "anos_de_vida": "1943-2017",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Edson_de_Godoy_Bueno"
+  },
+  {
+    "nome": "Miguel Nicolelis",
+    "nacionalidade": "Brasil",
+    "resumo": "Neurocientista, pioneiro em interfaces cérebro-máquina",
+    "inventos": [
+      "Exoesqueleto controlado por sinais cerebrais",
+      "Sistema de feedback sensorial para próteses"
+    ],
+    "anos_de_vida": "1961-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Miguel_Nicolelis"
+  },
+  {
+    "nome": "Azevedo Macedo",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor da lixeira com pedal",
+    "inventos": [
+      "Lixeira com pedal"
+    ],
+    "anos_de_vida": "1899-1980",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Azevedo_Macedo"
+  },
+  {
+    "nome": "Celso Silveira Mello",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor do carro movido a água",
+    "inventos": [
+      "Motor de carro movido a água"
+    ],
+    "anos_de_vida": "1940-2009",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Celso_Silveira_Mello"
+  },
+  {
+    "nome": "Francisco João de Azevedo",
+    "nacionalidade": "Brasil",
+    "resumo": "Inventor de uma máquina de escrever para cegos",
+    "inventos": [
+      "Máquina de escrever para cegos"
+    ],
+    "anos_de_vida": "1814-1880",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Francisco_João_de_Azevedo"
+  },
+  {
+    "nome": "Oswaldo Cruz",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e sanitarista, pioneiro no combate a doenças tropicais",
+    "inventos": [
+      "Métodos de controle de epidemias",
+      "Campanhas de vacinação em massa"
+    ],
+    "anos_de_vida": "1872-1917",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Oswaldo_Cruz"
+  },
+  {
+    "nome": "Vital Brazil",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e cientista, pioneiro no desenvolvimento de soros antiofídicos",
+    "inventos": [
+      "Soro antiofídico",
+      "Técnicas de produção de soros"
+    ],
+    "anos_de_vida": "1865-1950",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Vital_Brazil"
+  },
+  {
+    "nome": "Nilo Peçanha",
+    "nacionalidade": "Brasil",
+    "resumo": "Político e criador do ensino técnico no Brasil",
+    "inventos": [
+      "Sistema de ensino técnico profissionalizante no Brasil"
+    ],
+    "anos_de_vida": "1867-1924",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Nilo_Peçanha"
+  },
+  {
+    "nome": "Adolfo Lutz",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e cientista, pioneiro da medicina tropical e zoologia médica no Brasil",
+    "inventos": [
+      "Métodos de diagnóstico para doenças tropicais",
+      "Técnicas de pesquisa em entomologia médica"
+    ],
+    "anos_de_vida": "1855-1940",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Adolfo_Lutz"
+  },
+  {
+    "nome": "Fernando Henrique Cardoso",
+    "nacionalidade": "Brasil",
+    "resumo": "Sociólogo, político e um dos criadores do Plano Real",
+    "inventos": [
+      "Plano Real (estabilização econômica)"
+    ],
+    "anos_de_vida": "1931-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Fernando_Henrique_Cardoso"
+  },
+  {
+    "nome": "Carlos Chagas",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e cientista, descobridor da doença de Chagas",
+    "inventos": [
+      "Método de diagnóstico da doença de Chagas",
+      "Técnicas de controle do vetor da doença"
+    ],
+    "anos_de_vida": "1879-1934",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Carlos_Chagas"
+  },
+  {
+    "nome": "Cesar Lattes",
+    "nacionalidade": "Brasil",
+    "resumo": "Físico, co-descobridor do méson pi",
+    "inventos": [
+      "Método de detecção de partículas subatômicas em emulsões fotográficas"
+    ],
+    "anos_de_vida": "1924-2005",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/César_Lattes"
+  },
+  {
+    "nome": "Joãosinho Trinta",
+    "nacionalidade": "Brasil",
+    "resumo": "Carnavalesco, revolucionou os desfiles de escolas de samba",
+    "inventos": [
+      "Inovações nos carros alegóricos",
+      "Novas técnicas de adereços e fantasias"
+    ],
+    "anos_de_vida": "1933-2011",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Joãosinho_Trinta"
+  },
+  {
+    "nome": "Bertha Lutz",
+    "nacionalidade": "Brasil",
+    "resumo": "Bióloga e ativista, pioneira do feminismo no Brasil",
+    "inventos": [
+      "Leis e políticas para igualdade de gênero",
+      "Métodos de organização do movimento feminista"
+    ],
+    "anos_de_vida": "1894-1976",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Bertha_Lutz"
+  },
+  {
+    "nome": "Maurício de Sousa",
+    "nacionalidade": "Brasil",
+    "resumo": "Cartunista e empresário, criador da Turma da Mônica",
+    "inventos": [
+      "Personagens e universo da Turma da Mônica",
+      "Técnicas de produção em massa de quadrinhos no Brasil"
+    ],
+    "anos_de_vida": "1935-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Mauricio_de_Sousa"
+  },
+  {
+    "nome": "Crodowaldo Pavan",
+    "nacionalidade": "Brasil",
+    "resumo": "Biólogo e geneticista, pioneiro em pesquisas genéticas",
+    "inventos": [
+      "Técnicas de estudo genético em Drosophila",
+      "Métodos de análise de evolução cromossômica"
+    ],
+    "anos_de_vida": "1919-2009",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Crodowaldo_Pavan"
+  },
+  {
+    "nome": "Johanna Döbereiner",
+    "nacionalidade": "República Tcheca/Brasil",
+    "resumo": "Agrônoma, pioneira em fixação biológica de nitrogênio",
+    "inventos": [
+      "Técnicas de fixação biológica de nitrogênio em gramíneas",
+      "Métodos de aumento da produtividade agrícola sustentável"
+    ],
+    "anos_de_vida": "1924-2000",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Johanna_Döbereiner"
+  },
+  {
+    "nome": "Ronaldo Rondinelli",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico, desenvolveu técnicas inovadoras em cirurgia cardíaca",
+    "inventos": [
+      "Técnicas de cirurgia cardíaca minimamente invasiva",
+      "Métodos de preservação de válvulas cardíacas"
+    ],
+    "anos_de_vida": "1946-presente",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Ronaldo_Rondinelli"
+  },
+  {
+    "nome": "Henrique da Rocha Lima",
+    "nacionalidade": "Brasil",
+    "resumo": "Médico e patologista, descobridor do agente causador do tifo epidêmico",
+    "inventos": [
+      "Métodos de identificação de Rickettsia prowazekii",
+      "Técnicas de pesquisa em doenças tropicais"
+    ],
+    "anos_de_vida": "1879-1956",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Henrique_da_Rocha_Lima"
+  },
+  {
+    "nome": "Nise da Silveira",
+    "nacionalidade": "Brasil",
+    "resumo": "Médica psiquiatra, pioneira na terapia ocupacional",
+    "inventos": [
+      "Métodos terapêuticos através da arte",
+      "Técnicas humanizadas de tratamento psiquiátrico"
+    ],
+    "anos_de_vida": "1905-1999",
+    "wikipedia_url": "https://pt.wikipedia.org/wiki/Nise_da_Silveira"
+  }
+]
